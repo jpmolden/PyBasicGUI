@@ -1,3 +1,8 @@
+import matplotlib
+import tkinter
+
+
+
 print("Goodbye, World!")
 print("dcn")
 print("dc")
@@ -17,3 +22,4 @@ class Employees(object):
 
 x = Employees
 print(x.firsty)
+print("d")

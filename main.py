@@ -8,10 +8,10 @@ print("dcn")
 print("dc")
 
 
-def myinsult(trump, verb, noun):
-    print("hey you {0}nj {1}njk {2}".format(trump, verb, noun))
+def myinsult(subject, verb, noun):
+    print("hey you {0}nj {1}njk {2}".format(subject, verb, noun))
 
-myinsult("dick", "you", "are")
+myinsult("ddcdsc", "vdfv", "dfvd")
 
 class Employees(object):
     """docsfirst, lastng for Employees."""

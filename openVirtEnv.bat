@@ -8,4 +8,9 @@ set NetPath=%~dp0
 echo %NetPath%
 python  "%NetPath%main.py"
 pause
+
+
+
 .\PyBasicGUI_ENV\Scripts\activate
+REM http://docs.python-guide.org/en/latest/shipping/freezing/#linux
+pip install bbfreeze
